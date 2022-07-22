@@ -1,0 +1,88 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #fae5df;
+  margin-left: 1em;
+  margin-right: 1em;
+  font-family: "Cursive";
+}
+
+/* STYLE TEXT */
+header {
+    background: #f5cac2;
+    padding-bottom: 1em;
+}
+
+.pf {
+  background:#f5cac2;
+ 
+}
+ header.yo {
+   padding-bottom: 0.2em;
+ }
+h1 {
+  color: #303179;
+  text-align: center;
+  padding-top: 0.5em;
+ 
+
+}
+header{
+  text-align: center;
+}
+h2 {
+  color: #ed7966;
+  text-decoration: underline;
+  margin-left: 3em;
+}
+nav {
+  margin-left: 3em;
+}
+
+p {
+  color: #141850;
+  margin-left: 5em;
+  margin-right: 5em
+}
+/* STYLE IMAGES */
+img {
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 5%; 
+  border: 5px solid white
+
+}
+/* STYLE NAV BAR */
+img.yoo {
+  max-width: 350px;
+  max-height: 400px;
+}
+ul {
+  list-style-type: none;
+  background-color: #303179;
+  overflow: hidden;
+  padding: 1em;
+  text-align: center;
+}
+li {
+  display: inline;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1em;
+  padding: 2em;
+  
+}
+
+li a:hover {
+  background-color: #f5cac2;
+}
+nav {
+  padding-right: 2em;
+}
+
+.imp {
+  font-size: 1.5em;
+  text-align: center;
+}
